@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+chroma_db/
+data/augmented/
+data/input/*
+!data/input/.gitkeep
+*.log
+.DS_Store
+dinov3_vitl16_pretrain_lvd1689m-8aa4cbdd.pth
